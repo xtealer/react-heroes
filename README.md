@@ -1,2 +1,3 @@
 # react-django-example
-React app that connects to DJango REST API.
+
+DJango API: https://github.com/xtealer/django-react-example
